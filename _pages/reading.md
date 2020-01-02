@@ -1,11 +1,8 @@
 ---
-permalink: /reading/
-title: "Readings"
-excerpt: ""
+layout: default
+title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /reading/
-  - /reading.html
 ---
 The last 5 books I’ve read. Let’s discuss! 
 
