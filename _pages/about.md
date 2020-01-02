@@ -16,5 +16,5 @@ Most recently, I launched [Fairness Indicators](https://ai.googleblog.com/2019/1
 * In the past, I’ve worked on [Pixel Software](https://events.google.com/io/schedule/events/08837fc5-b49c-4ac5-b5d5-ff2bf3869a48), [Local Services](https://ads.google.com/local-services-ads/), and Youtube Search in various PM and engineering roles. 
 * I did a quarter abroad at Oxford, where I studied behavioral economics with [Dr. George Bitsakakis](https://www.linkedin.com/in/georgebitsakakis/?originalSubdomain=uk).  
 
-I’m also an avid reader, hiker, and alto for Google’s [Alphabeat](https://www.techapella.org/alphabeat). 
+I’m also an avid [reader](/reading), [hiker](/hiking), and alto for Google’s [Alphabeat](https://www.techapella.org/alphabeat). 
 
