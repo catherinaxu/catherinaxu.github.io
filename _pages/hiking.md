@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Hiking"
 permalink: /hiking/
 author_profile: true
