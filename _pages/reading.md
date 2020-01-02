@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Publications"
-permalink: /publications/
+title: "Reading"
+permalink: /reading/
 author_profile: true
 ---
 The last 5 books I’ve read. Let’s discuss! 
