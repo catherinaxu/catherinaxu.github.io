@@ -11,4 +11,4 @@ The last 5 books I’ve read. Let’s discuss!
 * _Becoming_, Michelle Obama
 * _The Push_, Tommy Caldwell
 
-Send me book recs [here](catherinaxu5@gmail.com).
+Send me book recs [here](mailto:catherinaxu5@gmail.com).
