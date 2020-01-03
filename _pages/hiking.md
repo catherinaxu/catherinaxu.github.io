@@ -3,7 +3,7 @@ title: "Hiking"
 permalink: /hiking/
 author_profile: true
 ---
-A casual collection of photos from outdoor adventures. 
+A casual collection of photos from outdoor adventures \[coming soon\]
 
 [Pizol Five Lakes, Vilters-Wangs, Switzerland, September 2019](/hiking/pizol)  
 [Heuberg Loop, Kandersteg, Switzerland, September 2019](/hiking/oeschinensee)  
