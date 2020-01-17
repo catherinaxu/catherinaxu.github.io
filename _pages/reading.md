@@ -3,8 +3,9 @@ title: "Reading"
 permalink: /reading/
 author_profile: true
 ---
-The last 5 books I’ve read. Let’s discuss! 
+The last 6 books I’ve read. Let’s discuss! 
 
+* _American Prison_, Shane Bauer
 * _There There_, Tommy Orange
 * A travel guide for China
 * _Educated_, Tara Westover
