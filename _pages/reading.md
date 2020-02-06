@@ -3,11 +3,12 @@ title: "Reading"
 permalink: /reading/
 author_profile: true
 ---
-The last 6 books I’ve read. Let’s discuss! 
+The last 7 books I’ve read. Let’s discuss! 
 
+* _The Education of an Idealist_, Samantha Power
+* _Cutting for Stone_, Abraham Verghese
 * _American Prison_, Shane Bauer
 * _There There_, Tommy Orange
-* A travel guide for China
 * _Educated_, Tara Westover
 * _Becoming_, Michelle Obama
 * _The Push_, Tommy Caldwell
