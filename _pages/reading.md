@@ -3,7 +3,7 @@ title: "Reading"
 permalink: /reading/
 author_profile: true
 ---
-The last 7 books I’ve read. Let’s discuss! 
+The last 8 books I’ve read. Let’s discuss! 
 
 * _How to Do Nothing_, Jenny Odell
 * _The Education of an Idealist_, Samantha Power
