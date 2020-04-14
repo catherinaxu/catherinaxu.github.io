@@ -6,7 +6,7 @@ author_profile: true
 A casual collection of photos from outdoor adventures \[coming soon\]
 
 [Upper Yosemite Falls and Yosemite Point, Yosemite, CA, February 2020](/hiking/yosemite-point)  
-[Zermatt-Matterhorn, Switzerland, & Breuil-Cervinia, Italy, February 2020](/hiking/zermatt-ski)  
+[Zermatt-Matterhorn, Switzerland, and Breuil-Cervinia, Italy, February 2020](/hiking/zermatt-ski)  
 [Montserrat, Catalonia, Spain, January 2020](/hiking/montserrat)  
 [Pizol Five Lakes, Vilters-Wangs, Switzerland, September 2019](/hiking/pizol)  
 [Heuberg Loop, Kandersteg, Switzerland, September 2019](/hiking/oeschinensee)  
