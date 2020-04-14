@@ -3,8 +3,9 @@ title: "Reading"
 permalink: /reading/
 author_profile: true
 ---
-The last 10 books I’ve read. Let’s discuss! 
+The last 11 books I’ve read. Let’s discuss! 
 
+* _Exhalation_, Ted Chiang
 * _Small Fry_, Lisa Brennan-Jobs
 * _Where the Crawdads Sing_, Delia Owens
 * _How to Do Nothing_, Jenny Odell
