@@ -6,6 +6,7 @@ author_profile: true
 The last 12 books I’ve read. Let’s discuss! 
 
 * _The Testaments_, Margaret Atwood
+* _Exhalation_, Ted Chiang
 * _Small Fry_, Lisa Brennan-Jobs
 * _Where the Crawdads Sing_, Delia Owens
 * _How to Do Nothing_, Jenny Odell
