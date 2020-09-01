@@ -3,7 +3,7 @@ title: "Reading"
 permalink: /reading/
 author_profile: true
 ---
-The last 12 books I’ve read. Let’s discuss! 
+The last 13 books I’ve read. Let’s discuss! 
 
 * _My Beloved World_, Sonia Sotomayor  
 * _The Testaments_, Margaret Atwood
