@@ -3,7 +3,7 @@ title: "Reading"
 permalink: /reading/
 author_profile: true
 ---
-The last 13 books I’ve read. Let’s discuss! 
+The last 14 books I’ve read. Let’s discuss! 
 
 * _Shortest Way Home_, Pete Buttigieg
 * _My Beloved World_, Sonia Sotomayor  
