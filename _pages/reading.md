@@ -5,6 +5,7 @@ author_profile: true
 ---
 The last 13 books I’ve read. Let’s discuss! 
 
+* _Shortest Way Home_, Pete Buttigieg
 * _My Beloved World_, Sonia Sotomayor  
 * _The Testaments_, Margaret Atwood
 * _Exhalation_, Ted Chiang
