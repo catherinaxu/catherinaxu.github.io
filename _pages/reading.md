@@ -3,8 +3,9 @@ title: "Reading"
 permalink: /reading/
 author_profile: true
 ---
-The last 14 books I’ve read. Let’s discuss! 
+The last 15 books I’ve read. Let’s discuss! 
 
+* _The Truths We Hold_, Kamala Harris
 * _Shortest Way Home_, Pete Buttigieg
 * _My Beloved World_, Sonia Sotomayor  
 * _The Testaments_, Margaret Atwood
