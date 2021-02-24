@@ -3,8 +3,11 @@ title: "Reading"
 permalink: /reading/
 author_profile: true
 ---
-The last 17 books I’ve read. Let’s discuss! 
+The last 20 books I’ve read. Let’s discuss! 
 
+* _Dreamland: The True Tale of America's Opiate Epidemic_, Sam Quinones
+* _When Breath Becomes Air_, Paul Kalanithi
+* _Love in the Time of Cholera_, Gabriel García Márquez
 * _Natural_, Alan Levinovitz
 * _The Decadent Society_, Ross Douthat
 * _The Truths We Hold_, Kamala Harris
