@@ -5,7 +5,7 @@ author_profile: true
 ---
 A casual collection of photos from outdoor adventures \[coming soon\]
 
-[Winter Park, Grand County, Colorado, CA, February 2021](/hiking/wp)    
+[Winter Park, Grand County, CO, February 2021](/hiking/wp)    
 [Condor Gulch to High Peaks, Pinnacles, CA, November 2020](/hiking/pinnacles)  
 [Minaret Lake, Ansel Adams Wilderness, CA, August 2020](/hiking/minaret-lake)    
 [Mist Falls, Kings Canyon, CA, July 2020](/hiking/mist-falls)  
