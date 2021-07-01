@@ -5,7 +5,7 @@ author_profile: true
 ---
 The last 23 books I’ve read. Let’s discuss! 
 
-*_A Promised Land_, Barack Obama
+* _A Promised Land_, Barack Obama
 * _Rage_, Bob Woodward
 * _The Biggest Bluff_, Maria Konnikova
 * _Dreamland: The True Tale of America's Opiate Epidemic_, Sam Quinones
